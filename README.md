@@ -1,2 +1,2 @@
 I make games.
-https://goofishgamestudios.com
+http://goofishgamestudios.com
